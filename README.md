@@ -4,6 +4,8 @@ These projects are created as part of the following training: DCL-352: Domain-Dr
 
 Please follow the link for the complete training catalog: https://www.deepcloudlabs.com/resources
 
+Please follow the link to use Miro (https://www.miro.com) 
+
 Kurulum Bilgisi:
 ========================================
 Eğitimde lab çalışmaları için gerekli olan çalışma ortamının kurulumu için öncelikle aşağıdaki bağlantıda yer alan sıkıştırılmış dosyayı makinanıza indirmeniz gerekiyor: https://www.deepcloudlabs.com/software/DEVEL-stage-2020a-java.se.and.spring.7z
